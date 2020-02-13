@@ -1,0 +1,117 @@
+I:\Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+I:\Lucky7\Lucky7\obj\Debug\Lucky7.csprojResolveAssemblyReference.cache
+I:\Lucky7\Lucky7\obj\Debug\Lucky7.BrowseItems.resources
+I:\Lucky7\Lucky7\obj\Debug\Lucky7.Main.resources
+I:\Lucky7\Lucky7\obj\Debug\Lucky7.NewGame.resources
+I:\Lucky7\Lucky7\obj\Debug\Lucky7.Properties.Resources.resources
+I:\Lucky7\Lucky7\obj\Debug\Lucky7.csproj.GenerateResource.Cache
+I:\Lucky7\Lucky7\bin\Debug\Lucky7.exe
+I:\Lucky7\Lucky7\bin\Debug\Lucky7.pdb
+I:\Lucky7\Lucky7\obj\Debug\Lucky7.exe
+I:\Lucky7\Lucky7\obj\Debug\Lucky7.pdb
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+G:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.exe
+G:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.pdb
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.pdb
+G:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.Main.resources
+G:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.NewGame.resources
+G:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.Properties.Resources.resources
+G:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.csproj.GenerateResource.Cache
+G:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.BidStocks.resources
+G:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.BrowseStocks.resources
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+I:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.exe
+I:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.pdb
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.pdb
+I:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.BidStocks.resources
+I:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.BrowseStocks.resources
+I:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.Main.resources
+I:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.NewGame.resources
+I:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.Properties.Resources.resources
+I:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.csproj.GenerateResource.Cache
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Lucky7Board.png
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Lucky7DiceIcon.ico
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerBlack.png
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerBlue.png
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerGold.png
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerGrey.png
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerRed.png
+I:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerYellow.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Lucky7Board.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Lucky7DiceIcon.ico
+H:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+H:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.exe
+H:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.pdb
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerBlack.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerBlue.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerGold.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerGrey.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerPink.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerRed.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerWhite.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerYellow.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die1.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die2.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die3.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die4.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die5.png
+G:\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die6.png
+G:\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.csprojResolveAssemblyReference.cache
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.exe
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.pdb
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Lucky7Board.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Lucky7DiceIcon.ico
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerBlack.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerBlue.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerGold.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerGrey.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerPink.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerRed.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerWhite.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerYellow.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die1.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die2.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die3.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die4.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die5.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die6.png
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.pdb
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.csprojResolveAssemblyReference.cache
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.BidStocks.resources
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.BrowseStocks.resources
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.Main.resources
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.NewGame.resources
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.Properties.Resources.resources
+H:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.csproj.GenerateResource.Cache
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.exe
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.pdb
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Lucky7Board.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Lucky7DiceIcon.ico
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerBlack.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerBlue.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerGold.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerGrey.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerPink.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerRed.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerWhite.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\PlayerYellow.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die1.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die2.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die3.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die4.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die5.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Resources\Die6.png
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.exe
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\bin\Debug\Lucky7.pdb
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.csprojResolveAssemblyReference.cache
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.BidStocks.resources
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.BrowseStocks.resources
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.Main.resources
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.NewGame.resources
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.Properties.Resources.resources
+G:\Data\Code\C#\CSharp Projects\Lucky7\Lucky7\obj\Debug\Lucky7.csproj.GenerateResource.Cache
